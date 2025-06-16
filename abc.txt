@@ -1,0 +1,2 @@
+git init
+The git init command creates a new Git repository or reinitiates an existing one
